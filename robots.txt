@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fabric-shaver.lifeofmorr.com/sitemap.xml
